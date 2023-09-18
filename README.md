@@ -7,4 +7,6 @@ this project is gender detection using custom model. train model based on tensor
 
 I using computer vision  to  test this model through "test.py" file 
 
-also you can get the database and the model  from this link  https://drive.google.com/drive/folders/16Jx3fqsMgbXjr7qw--dW15IvSyAXH8-n?usp=sharing.
+also you can get the database and the model  from this link 
+
+https://drive.google.com/drive/folders/16Jx3fqsMgbXjr7qw--dW15IvSyAXH8-n?usp=sharing.
